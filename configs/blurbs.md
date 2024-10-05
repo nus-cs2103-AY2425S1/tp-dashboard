@@ -34,8 +34,8 @@ https://github.com/AY2425S1-CS2103T-W10-3/tp/tree/master
 https://github.com/AY2425S1-CS2103T-W10-4/tp/tree/master
 **Product:** [StoreClass](https://ay2425s1-cs2103t-w10-4.github.io/tp)
 <!--repo-->------------------------------------
-https://github.com/AY2425S1-CS2103T-W11-1/tp/tree/master
-**Product:** [Murphy's List](https://ay2425s1-cs2103t-w11-1.github.io/tp)
+https://github.com/AY2425S1-CS2103T-W11-1a/tp/tree/master
+**Product:** [Murphy's List](https://ay2425s1-cs2103t-w11-1a.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-W11-2/tp/tree/master
 **Product:** [AB3-My-Guest](https://ay2425s1-cs2103t-w11-2.github.io/tp)
@@ -167,7 +167,7 @@ https://github.com/AY2425S1-CS2103T-T14-4/tp/tree/master
 **Product:** [AgentAssist](https://ay2425s1-cs2103t-t14-4.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-T15-1/tp/tree/master
-**Product:** [TrueEstate](https://ay2425s1-cs2103t-t15-1.github.io/tp)
+**Product:** [TrueRental](https://ay2425s1-cs2103t-t15-1.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-T15-2/tp/tree/master
 **Product:** [EduTutu](https://ay2425s1-cs2103t-t15-2.github.io/tp)
@@ -257,10 +257,10 @@ https://github.com/AY2425S1-CS2103T-F10-4/tp/tree/master
 **Product:** [TechConnect](https://ay2425s1-cs2103t-f10-4.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103-F11-1/tp/tree/master
-**Product:** [ConcertPhonebook](https://ay2425s1-cs2103-f11-1.github.io/tp)
+**Product:** [TAchy](https://ay2425s1-cs2103-f11-1.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-F11-1/tp/tree/master
-**Product:** [ContactHub](https://ay2425s1-cs2103t-f11-1.github.io/tp)
+**Product:** [ConcertPhonebook](https://ay2425s1-cs2103t-f11-1.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103-F11-2/tp/tree/master
 **Product:** [TutorEase](https://ay2425s1-cs2103-f11-2.github.io/tp)
@@ -296,7 +296,7 @@ https://github.com/AY2425S1-CS2103-F12-4/tp/tree/master
 **Product:** [StudentManagerPro](https://ay2425s1-cs2103-f12-4.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-F12-4/tp/tree/master
-**Product:** [CipherContacts](https://ay2425s1-cs2103t-f12-4.github.io/tp)
+**Product:** [VBook](https://ay2425s1-cs2103t-f12-4.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103-F13-1/tp/tree/master
 **Product:** [SpleetWaise](https://ay2425s1-cs2103-f13-1.github.io/tp)
