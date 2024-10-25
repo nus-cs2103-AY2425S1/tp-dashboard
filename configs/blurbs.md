@@ -158,7 +158,7 @@ https://github.com/AY2425S1-CS2103T-T14-1/tp/tree/master
 **Product:** [Prudy](https://ay2425s1-cs2103t-t14-1.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-T14-2/tp/tree/master
-**Product:** [UniNet](https://ay2425s1-cs2103t-t14-2.github.io/tp)
+**Product:** [AdmiNUS](https://ay2425s1-cs2103t-t14-2.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-T14-3/tp/tree/master
 **Product:** [MATER](https://ay2425s1-cs2103t-t14-3.github.io/tp)
