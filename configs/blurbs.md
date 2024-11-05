@@ -119,7 +119,7 @@ https://github.com/AY2425S1-CS2103T-T10-4/tp/tree/master
 **Product:** [LegacyLink](https://ay2425s1-cs2103t-t10-4.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-T11-1/tp/tree/master
-**Product:** [BizBook Pro](https://ay2425s1-cs2103t-t11-1.github.io/tp)
+**Product:** [BakeBuddy](https://ay2425s1-cs2103t-t11-1.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-T11-2/tp/tree/master
 **Product:** [KonTActs](https://ay2425s1-cs2103t-t11-2.github.io/tp)
