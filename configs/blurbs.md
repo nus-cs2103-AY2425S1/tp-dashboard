@@ -113,7 +113,7 @@ https://github.com/AY2425S1-CS2103T-T10-2/tp/tree/master
 **Product:** [StaffSync](https://ay2425s1-cs2103t-t10-2.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-T10-3/tp/tree/master
-**Product:** [TASync](https://ay2425s1-cs2103t-t10-3.github.io/tp)
+**Product:** [ConTActs](https://ay2425s1-cs2103t-t10-3.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-T10-4/tp/tree/master
 **Product:** [LegacyLink](https://ay2425s1-cs2103t-t10-4.github.io/tp)
