@@ -50,7 +50,7 @@ https://github.com/AY2425S1-CS2103T-W12-1/tp/tree/master
 **Product:** [BlitzBiz](https://ay2425s1-cs2103t-w12-1.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-W12-2/tp/tree/master
-**Product:** [Volunteams](https://ay2425s1-cs2103t-w12-2.github.io/tp)
+**Product:** [VolunSync](https://ay2425s1-cs2103t-w12-2.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S1-CS2103T-W12-3/tp/tree/master
 **Product:** [UniLink](https://ay2425s1-cs2103t-w12-3.github.io/tp)
